@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Elena Pratt",
+        "time": "1100",
+        "passengerLocation": "Randall & Orchard"
+    },
+    {
+        "name": "Hugh Swanson",
+        "time": "1250",
+        "passengerLocation": "Regent & State"
+    },
+    {
+        "name": "Courtney Owen",
+        "time": "1315",
+        "passengerLocation": "Campus & Babcock"
+    },
+    {
+        "name": "Jenna Beck",
+        "time": "1411",
+        "passengerLocation": "Orchard & State"
+    },
+    {
+        "name": "Kent Harper",
+        "time": "1052",
+        "passengerLocation": "Charter & Park"
+    },
+    {
+        "name": "Andy Pittman",
+        "time": "1011",
+        "passengerLocation": "Babcock & State"
+    }
+]
